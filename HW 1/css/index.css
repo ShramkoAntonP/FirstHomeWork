@@ -1,0 +1,26 @@
+.bg {
+    background-color: blueviolet;
+}
+
+.preview {
+    font-size: 4.rem;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hi {
+    margin-left: 0;
+}
+
+.intro {
+    text-align: center;
+}
+
+.myself {
+    text-align: right;
+}
+
+.info {
+    border-bottom: 4px;
+    border-color: brown;
+}
